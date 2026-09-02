@@ -42,7 +42,7 @@ Antes de começar, você precisa ter instalado em seu computador:
 1. Abra o terminal ou prompt de comando (CMD) do seu computador.
 2. Navegue até a pasta onde está o arquivo `app.py`:
    ```bash
-   cd caminhos/para/sua/pasta/projetos/consumo-energia
+   caminhos para sua pasta/projetos/consumo-energia
    ```
 3. Execute o programa digitando o comando abaixo:
    ```bash
